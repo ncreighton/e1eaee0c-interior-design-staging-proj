@@ -1,2 +1,28 @@
-# e1eaee0c-interior-design-staging-proj
-spending hours building a system before you can actually use it costs you real money. This Notion template pays for itself in one use.  Mobile-optimized for Notion iOS and Android — works everywhere you work. Fully documented: every section explained so you know exactly what to customize.  ## What's Included  - Interior Design &amp; Staging Project Man
+# Interior Design & Staging Project Management and Team Collaboration Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/00w00jcLlf6QaNO47qcZM0E)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/00w00jcLlf6QaNO47qcZM0E)
+
